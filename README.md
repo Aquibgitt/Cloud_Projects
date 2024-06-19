@@ -1,2 +1,2 @@
 # Cloud_Projects
-Enhancing all cloud skills
+Learning new projects about the cloud and AWS
